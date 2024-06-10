@@ -1,8 +1,9 @@
 # rajbhanderi-dev
 <h1 align="center">Hello there 👋, I'm Raj Bhanderi</h1>
 
-- 🔭 I work extensively on the React ecosystem
+- 🔭 I’m currently working on MERN Stack
 - 🤔 Always on the lookout for new ideas to develop
+- 💬 Ask me about Node.js, React, MySql, MongoDB Etc.
 - 📫 How to reach me **bhanderiraj06@gamil.com**
 
 ## Contact me at
