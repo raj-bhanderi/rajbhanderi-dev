@@ -3,7 +3,7 @@
 
 - 🔭 I work extensively on the React ecosystem
 - 🤔 Always on the lookout for new ideas to develop
-- 📫 How to reach me **rajbhanderi06@hotmail.com**
+- 📫 How to reach me **bhanderiraj06@gamil.com**
 
 ## Contact me at
 
