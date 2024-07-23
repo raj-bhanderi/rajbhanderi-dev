@@ -31,4 +31,4 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitbhanderi&label=Profile%20views&color=0e75b6&style=flat" alt="lalitbhanderi" /> </p>
+
