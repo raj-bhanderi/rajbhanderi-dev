@@ -1,4 +1,4 @@
-# rajbhanderi-dev
+
 <h1 align="center">Hello there 👋, I'm Raj Bhanderi</h1>
 
 - 🔭 I’m currently working on MERN Stack
